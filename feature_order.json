@@ -1,0 +1,24 @@
+{
+  "features": [
+    "anxiety_level",
+    "self_esteem",
+    "mental_health_history",
+    "depression",
+    "headache",
+    "blood_pressure",
+    "sleep_quality",
+    "breathing_problem",
+    "noise_level",
+    "living_conditions",
+    "safety",
+    "basic_needs",
+    "academic_performance",
+    "study_load",
+    "teacher_student_relationship",
+    "future_career_concerns",
+    "social_support",
+    "peer_pressure",
+    "extracurricular_activities",
+    "bullying"
+  ]
+}
