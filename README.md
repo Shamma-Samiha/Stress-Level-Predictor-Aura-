@@ -52,16 +52,6 @@ The app also includes a unique **Scenario Testing Optimiser** that suggests smal
 
 ---
 
-## 📂 Project Structure
-stress-level-predictor/
-│
-├── app.py # Streamlit app
-├── train_model.py # Train + export RandomForest
-├── model_rf.joblib # Saved RandomForest model
-├── feature_order.json # Feature ordering for inference
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── screenshots/ # (optional) images used in README
 
 ## 📊 Why this matters
 
