@@ -32,10 +32,10 @@ The app also includes a unique **Scenario Testing Optimiser** that suggests smal
 ### 🧪 Scenario Testing (Before vs After)
 ![Scenario Testing](wv3.png)
 
-### 📊 Proposed Small Changes
+### 📈 Feature Importance
 ![Tweaks](wv4.png)
 
-### 📈 Feature Importance
+### 📊 Proposed Small Changes
 ![Feature Importance](wv5.png)
 
 ### 🎯 Final Predicted Stress Level
